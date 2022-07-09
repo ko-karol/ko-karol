@@ -1,4 +1,10 @@
 ### Hi there 👋
+ Welcome to my profile.
+ Here are some quick links to my projects:  
+ kr33l.github.io/tribute-to-bastion/  
+ kr33l.github.io/comment-box/  
+ kr33l.github.io/project-gallery/   
+ kr33l.github.io/mini-platformer/  
 
 <!--
 **Kr33L/Kr33L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
  Welcome to my profile.
  Here are some quick links to my projects:    
  > [Tribute to Bastion](https://kr33l.github.io/Tribute-to-Bastion/)  
- > [Comment Box](https://kr33l.github.io/Comment-Box/)  
+ > [Comment Box](https://kr33l.github.io/Comment-box/)  
  > [Project Gallery](https://kr33l.github.io/Project-Gallery/)   
  > [Mini Platformer](https://kr33l.github.io/Mini-Platformer/)  
 

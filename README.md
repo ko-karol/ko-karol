@@ -5,6 +5,7 @@
  > [Comment Box](https://kr33l.github.io/Comment-box/)  
  > [Project Gallery](https://kr33l.github.io/Project-Gallery/)   
  > [Mini Platformer](https://kr33l.github.io/Mini-Platformer/)  
+ > [Fruit Shop](https://kr33l.github.io/Fruit-Shop/)
 
 <!--
 **Kr33L/Kr33L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,23 +1,4 @@
-### Hi there 👋
- Welcome to my profile.
- Here are some quick links to my projects:    
- > [Tribute to Bastion](https://kr33l.github.io/Tribute-to-Bastion/)  
- > [Comment Box](https://kr33l.github.io/Comment-box/)  
- > [Project Gallery](https://kr33l.github.io/Project-Gallery/)   
- > [Mini Platformer](https://kr33l.github.io/Mini-Platformer/)  
- > [Fruit Shop](https://kr33l.github.io/Fruit-Shop/)
-
-<!--
-**Kr33L/Kr33L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Welcome </div>
+ Here are some quick links to some of my projects:
+ 
+ 🔭&nbsp;[Tribute to Bastion](https://kr33l.github.io/Tribute-to-Bastion/) 🔭&nbsp;[Comment Box](https://kr33l.github.io/Comment-box/) 🔭&nbsp;[Project Gallery](https://kr33l.github.io/Project-Gallery/) 🔭&nbsp;[Mini Platformer](https://kr33l.github.io/Mini-Platformer/)  🔭&nbsp;[Fruit Shop](https://kr33l.github.io/Fruit-Shop/)

@@ -2,3 +2,7 @@
  Here are some quick links to some of my projects:
  
  🔭&nbsp;[Tribute to Bastion](https://kr33l.github.io/Tribute-to-Bastion/) 🔭&nbsp;[Comment Box](https://kr33l.github.io/Comment-box/) 🔭&nbsp;[Project Gallery](https://kr33l.github.io/Project-Gallery/) 🔭&nbsp;[Mini Platformer](https://kr33l.github.io/Mini-Platformer/)  🔭&nbsp;[Fruit Shop](https://kr33l.github.io/Fruit-Shop/)
+
+ Ask me about anything here: 
+ 
+ 💬[Profile Discussions](https://github.com/Kr33L/Kr33L/discussions)

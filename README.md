@@ -16,3 +16,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="52" alt="csharp logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45?style=centerme)](https://git.io/streak-stats)

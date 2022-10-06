@@ -18,4 +18,4 @@
 </div>
 
 ---
---------------------------> [![GitHub Streak](https://streak-stats.demolab.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45)](https://git.io/streak-stats) <--------------------------
+---------------------------> [![GitHub Streak](https://streak-stats.demolab.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45)](https://git.io/streak-stats) <--------------------------

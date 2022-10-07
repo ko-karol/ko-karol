@@ -1,4 +1,4 @@
-# <div align=center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Welcome </div>
+# ![GitHub Gist last commit](https://img.shields.io/github-gist/last-commit/Kr33L?style=flat-square) <div align=center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Welcome </div>
 #### Here are quick links to some of my projects:
 
 🔭 [Tribute to Bastion](https://kr33l.github.io/Tribute-to-Bastion/) <br>

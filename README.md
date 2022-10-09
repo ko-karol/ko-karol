@@ -1,23 +1,21 @@
-#### Here are quick links to some of my projects:
+#### Here are quick links to some of my live projects:
 
-🔭 [Tribute to Bastion](https://kr33l.github.io/Tribute-to-Bastion/) <br>
-🔭 [Mini Platformer](https://kr33l.github.io/Mini-Platformer/) <br>
-🔭 [Fruit Shop](https://kr33l.github.io/Fruit-Shop/) <br>
+🔭 [Tribute to Bastion](https://kr33l.github.io/Tribute-to-Bastion/)
+🔭 [Mini Platformer](https://kr33l.github.io/Mini-Platformer/)
+🔭 [Fruit Shop](https://kr33l.github.io/Fruit-Shop/)
 
 #### Ask me about anything here: <br>
 
 💬 [Profile Discussions](https://github.com/Kr33L/Kr33L/discussions)
 
-#### Tools:<br>
-<div align="left>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="52" alt="css3 logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="52" alt="csharp logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-</div>
-
 ---
----------------------------> [![GitHub Streak](https://streak-stats.demolab.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45)](https://git.io/streak-stats) <--------------------------
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45&width=120" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr33L&theme=tokyonight)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr33L&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,cs,vscode,visualstudio&perline=2"  />
+ </a>
+</p>

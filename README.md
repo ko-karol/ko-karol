@@ -1,17 +1,9 @@
 #### Ask me about anything here: 💬 [Profile Discussions](https://github.com/Kr33L/Kr33L/discussions)
+#### A directory for my smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / [Site](kr33l.github.io/SmallProjects/)<br>
 
 
-<details>
-<summary> Here are quick links to some of my live projects:
-</summary>
-<br>
-
-🔭 [Tribute to Bastion](https://kr33l.github.io/Tribute-to-Bastion/)<br>
-🔭 [Mini Platformer](https://kr33l.github.io/Mini-Platformer/)<br>
-🔭 [Fruit Shop](https://kr33l.github.io/Fruit-Shop/)
-<br>
-
-</details>
+#### Quick access to some of my projects: 
+#### [Mini Platformer](kr33l.github.io/Mini-Platformer/)<br>
 
 ---
 <p align="center">

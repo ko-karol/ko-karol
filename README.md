@@ -1,9 +1,9 @@
 #### Ask me about anything here: 💬 [Profile Discussions](https://github.com/Kr33L/Kr33L/discussions)
-#### A directory for my smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / [Site](kr33l.github.io/SmallProjects/)<br>
+#### A directory for my smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / [Site](https://kr33l.github.io/SmallProjects/)<br>
 
 
 #### Quick access to some of my projects: 
-#### [Mini Platformer](kr33l.github.io/Mini-Platformer/)<br>
+#### [Mini Platformer](https://kr33l.github.io/Mini-Platformer/)<br>
 
 ---
 <p align="center">

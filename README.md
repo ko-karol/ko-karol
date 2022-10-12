@@ -3,7 +3,7 @@
 
 
 #### Quick access to some of my projects: 
-#### [Mini Platformer](https://kr33l.github.io/Mini-Platformer/)<br>
+#### [Mini Platformer](https://kr33l.github.io/MiniPlatformer/)<br>
 
 ---
 <p align="center">

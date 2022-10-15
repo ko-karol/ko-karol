@@ -1,4 +1,4 @@
-#### Find out more about me: [:hammer:UNDER CONSTRUCTION:wrench:](https://kr33l.github.io/Me/)
+#### Find out more about me: ⚠️ [UNDER CONSTRUCTION](https://kr33l.github.io/Me/)
 #### Ask me about anything: 💬 [Profile Discussions](https://github.com/Kr33L/Kr33L/discussions)
 #### A directory for my smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / [Site](https://kr33l.github.io/SmallProjects/)<br>
 

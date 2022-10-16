@@ -13,9 +13,9 @@
 </div>
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=js,cs,css,html,vscode,visualstudio" />
+ <img src="https://skillicons.dev/icons?i=js,css,html,vscode,visualstudio,cs" />
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr33L&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=true&hide=html,css" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr33L&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=true&hide=html,css&card_width=200" />
 </div>

@@ -10,7 +10,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45&width=120" />
-  <img src="https://skillicons.dev/icons?i=js,cs,css,html,vscode,visualstudio&perline=2" />
+</div>
+
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=js,cs,css,html,vscode,visualstudio" />
 </div>
 
 <div align="center">

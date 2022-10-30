@@ -1,12 +1,11 @@
-#### You can find my learning diary here: [Repo](https://github.com/Kr33L/learning-diary)
-#### Find out more about me: ⚠️ [UNDER CONSTRUCTION](https://kr33l.github.io/Me/)
-#### Ask me about anything: 💬 [Profile Discussions](https://github.com/Kr33L/Kr33L/discussions)
+#### Find out more about me [here](https://kr33l.github.io/Me/) (under construction), or ask me about anything [here](https://github.com/Kr33L/Kr33L/discussions)
 #### A directory for my smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / [Site](https://kr33l.github.io/SmallProjects/)<br>
 
 
 #### Quick access to some of my projects: 
 #### [Mini Platformer](https://kr33l.github.io/MiniPlatformer/)<br>
 
+#### You can find my learning diary [here](https://github.com/Kr33L/learning-diary)
 ---
 
 <div align="center">

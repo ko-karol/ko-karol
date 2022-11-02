@@ -1,6 +1,5 @@
-##### Find out more about me: ⚠️ [under construction](https://kr33l.github.io/Me/)  
-##### Smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / 🕸️ [Site](https://kr33l.github.io/SmallProjects/)  
-##### Learning diary: 📘 [Repo](https://github.com/Kr33L/learning-diary/)
+#### Smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / 🕸️ [Site](https://kr33l.github.io/SmallProjects/)  
+#### Learning diary: 📘 [Repo](https://github.com/Kr33L/learning-diary/)
   
 </div>
 

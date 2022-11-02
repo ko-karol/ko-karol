@@ -1,14 +1,12 @@
-#### Find out more about me [here](https://kr33l.github.io/Me/) (under construction), or ask me about anything [here](https://github.com/Kr33L/Kr33L/discussions)
-#### A directory for my smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / [Site](https://kr33l.github.io/SmallProjects/)<br>
+#### Find out more about me: ⚠️ [under construction](https://kr33l.github.io/Me/)  
+#### Smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / 🕸️ [Site](https://kr33l.github.io/SmallProjects/)  
+#### Learning diary: 📘 [Repo](https://github.com/Kr33L/learning-diary/)
+  
+</div>
 
-
-#### Quick access to some of my projects: 
-#### [Mini Platformer](https://kr33l.github.io/MiniPlatformer/)<br>
-
-#### You can find my learning diary [here](https://github.com/Kr33L/learning-diary)
 ---
 
-<div align="center">
+  <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45&width=120" />
 </div>
 

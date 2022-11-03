@@ -1,5 +1,5 @@
-#### Smaller projects: 🔭 [Repo](https://github.com/Kr33L/SmallProjects) / 🕸️ [Site](https://kr33l.github.io/SmallProjects/)  
-#### Learning diary: 📘 [Repo](https://github.com/Kr33L/learning-diary/)
+### Smaller projects: [🔭](https://github.com/Kr33L/SmallProjects) / [🕸️](https://kr33l.github.io/SmallProjects/)  
+### Learning diary: [📘](https://github.com/Kr33L/learning-diary/)
   
 </div>
 

@@ -1,4 +1,4 @@
-### Smaller projects: [🔭](https://github.com/Kr33L/SmallProjects) / [🕸️](https://kr33l.github.io/SmallProjects/)  
+### Smaller projects: [🔭](https://github.com/Kr33L/small-projects) / [🕸️](https://kr33l.github.io/small-projects/)  
 ### Learning diary: [📘](https://github.com/Kr33L/learning-diary/)
   
 </div>

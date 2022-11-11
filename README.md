@@ -1,13 +1,6 @@
-<div align="center">
-  
-# [🔭](https://github.com/Kr33L/small-projects) [🕸️](https://kr33l.github.io/small-projects/) [📘](https://github.com/Kr33L/learning-diary/)
 
-</div>
+#### 🔬 Small Projects&nbsp;&nbsp;-> [Repo](https://github.com/Kr33L/small-projects) -> [Page](https://kr33l.github.io/small-projects/) 
+#### 📘 Learning Diary -> [Repo](https://github.com/Kr33L/learning-diary/)
 <div align="center">
   <img src="https://my-streakstats.herokuapp.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45&width=120" />
 </div>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr33L&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&hide_title=true&hide=html,css&card_width=200" />
-</div>
-

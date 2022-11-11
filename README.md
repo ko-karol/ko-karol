@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45&width=120" />
+  <img src="https://my-streakstats.herokuapp.com?user=Kr33L&theme=github-dark&hide_border=true&border_radius=45&width=120" />
 </div>
 
 <div align="center">

@@ -6,7 +6,7 @@ and see my **smaller projects** [here](https://kr33l.github.io/small-projects/).
 
 
 ```css
-I write, erase, rewrite
-Erase again, and then
-A poppy blooms."
+> I write, erase, rewrite
+> Erase again, and then
+> A poppy blooms.
 ```

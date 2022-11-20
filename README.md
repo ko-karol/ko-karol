@@ -4,8 +4,8 @@ You can find my **learning diary** [here](https://github.com/Kr33L/learning-diar
 and see my **smaller projects** [here](https://kr33l.github.io/small-projects/).
 
 
-```css
-> I write, erase, rewrite
-> Erase again, and then
-> A poppy blooms.
+```js
+> 0 == "0"; 
+> 0 == []; 
+> "0" != []; 
 ```

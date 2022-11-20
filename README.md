@@ -4,8 +4,8 @@ You can find my **learning diary** [here](https://github.com/Kr33L/learning-diar
 and see my **smaller projects** [here](https://kr33l.github.io/small-projects/).
 
 
-```js
-> 0 == "0"; 
-> 0 == []; 
-> "0" != []; 
+```css
+> We shape our tools,
+> and thereafter,
+> our tools shape us.
 ```

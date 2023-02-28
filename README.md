@@ -1,8 +1,7 @@
----
 
 <div align="center">
 
-```css
+```assembly
 A bug was found late one night
 The coder kept up the fight
 Eyes strained with the view
@@ -11,5 +10,3 @@ And now the code is working alright!
 ```
 
 </div>
-
----

@@ -1,27 +1,20 @@
-### My links:
-
-<a href="https://karol.codes/"> 
-  <img src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a" alt="portfolio" />
-</a>
-
-<a href="https://www.linkedin.com/in/karol-o">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="linkedin" />
-</a><br><br>
-
-<details>
-  <summary>Quote</summary>
-  
-```css
-Lines of code so neat,
-Commands with syntax complete,
-Programs come to life.
+```zsh
+> neofetch
 ```
+<img align="left" src="https://www.pngall.com/wp-content/uploads/2018/03/Robot-PNG-HD.png" alt="" width="200"/> 
 
-</details>
-
-<details>
-  <summary>Stats</summary>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Kr33L&show_icons=true&count_private=true&hide=contribs&theme=gruvbox" alt="github stats" />
-  
-</details>
+```csharp
+Kr33L@github
+----
+OS: Windows 11, Linux
+Shell: zsh
+Location: London, UK
+Languages: JavaScript, HTML, CSS
+Frameworks: React, Svelte, Next.js, Tailwind
+----
+Linkedin: karol-o
+```
+```css
+Debugging is like being a detective,
+in a crime movie where you are also the murderer.
+```

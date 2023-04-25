@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Kr33L/Kr33L/blob/main/Robot-PNG-HD.png?raw=true" alt="robot" width="180"/> 
+<img align="left" src="https://github.com/Kr33L/Kr33L/blob/main/Robot-PNG-HD.png?raw=true" alt="robot" width="190"/> 
 
 ```csharp
 Kr33L@github

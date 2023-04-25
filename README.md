@@ -1,7 +1,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://www.pngall.com/wp-content/uploads/2018/03/Robot-PNG-HD.png" alt="" width="180"/> 
+<img align="left" src="https://github.com/Kr33L/Kr33L/blob/main/Robot-PNG-HD.png?raw=true" alt="robot" width="180"/> 
 
 ```csharp
 Kr33L@github

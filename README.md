@@ -1,6 +1,6 @@
 ### My links:
 
-<a href="https://karol.best/"> 
+<a href="https://karol.codes/"> 
   <img src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a" alt="portfolio" />
 </a>
 

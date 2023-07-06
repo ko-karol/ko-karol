@@ -9,8 +9,8 @@ Kr33L@github
 OS: Windows 11, Linux
 Shell: zsh
 Location: London, UK
-Languages: JavaScript, HTML, CSS
-Frameworks: React & Next.js, Svelte & Sveltekit, Tailwind
+Languages: JavaScript
+Technologies: React & Next.js, Svelte & Sveltekit
 ----
 Linkedin: karol-o
 ```

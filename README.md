@@ -1,4 +1,3 @@
-```css
-Debugging is like being a detective,
-in a crime movie where you are also the murderer.
+```haskell
+Debugging is like being a detective, where you are also the murderer.
 ```

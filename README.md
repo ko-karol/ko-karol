@@ -1,3 +1,1 @@
-<pre width="200" lang="haskell">
-Debugging is like being a detective, where you are also the murderer.
-</pre>
+<pre style="width:50%">Debugging is like being a detective, where you are also the murderer.</pre>

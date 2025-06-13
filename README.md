@@ -1,6 +1,4 @@
-```
-ko-karol
-```
+
 ---
 
 > I build websites and code review AI.

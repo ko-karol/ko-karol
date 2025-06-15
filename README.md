@@ -16,8 +16,5 @@
 ---
 
 ```
-Currently learning by breaking things.
-```
-```
-Brute Force Expert.
+Brute Force Expert. Currently learning by breaking things.
 ```

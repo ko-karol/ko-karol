@@ -1,8 +1,7 @@
 # Karol Olechno
 
-Full-stack developer | React, Next.js, TypeScript, WordPress | London
-
-**Currently:** Building full-stack applications | **Previously:** Founders and Coders 2023
+Full-stack developer | React, Next.js, TypeScript, Astro, WordPress | London
+Building full-stack applications
 
 ## Featured Work
 
@@ -26,14 +25,10 @@ Sessions, cookies, bcrypt password hashing, and protected routes
 **Languages:** JavaScript, TypeScript, PHP, SQL  
 **Frontend:** React, Next.js, Astro, HTML/CSS, Tailwind  
 **Backend:** Node.js, Express, PostgreSQL  
-**WordPress:** Theme & plugin development, Elementor  
+**WordPress:** Theme & plugin development
 **Tools:** Git, Linux, Bash
 
 ## Background
 
 Freelance WordPress developer specializing in accessible, nonprofit websites through **LiftOff Digital**  
-Clients: Toast Collective, Guild of Psychotherapists, Rehabit, Claire Lynch Consulting
-
-Founders and Coders bootcamp graduate (2023) — Full-stack web development program
-
 Based in London | Open to full-stack developer roles

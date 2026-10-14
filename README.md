@@ -6,6 +6,7 @@ Software developer. I build software and occasionally break things on purpose to
 
 ## Now
 - [portfolio](https://github.com/ko-karol/portfolio) — my personal site (Astro)
+- [context-packs](https://github.com/ko-karol/context-packs) — one-file briefs you paste into an agent
 
 ## Archive
 Everything else - years of learning projects, challenges, and half-finished experiments - lives in **[karol-legacy](https://github.com/karol-legacy)**. Frozen and untouched.

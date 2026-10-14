@@ -1,5 +1,3 @@
-# Karol
-
 Software developer. I build software and occasionally break things on purpose to learn how they work.
 
 **Portfolio → [kokarol.com](https://kokarol.com)** · [source](https://github.com/ko-karol/portfolio)

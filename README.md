@@ -4,7 +4,7 @@ Software developer. I build software and occasionally break things on purpose to
 
 **Portfolio → [kokarol.com](https://kokarol.com)** · [source](https://github.com/ko-karol/portfolio)
 
-## Archive
+### Archive
 Everything else - years of learning projects, challenges, and half-finished experiments - lives in **[karol-legacy](https://github.com/karol-legacy)**. Frozen and untouched.
 
 A few things:
